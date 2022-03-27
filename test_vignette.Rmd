@@ -66,5 +66,7 @@ Also a quote using `>`:
 
 ```{r}
 # one line of code
+## Two lines of cose\
+library(tidyverse)
 ```
 
